@@ -1,0 +1,8 @@
+include ':app', ':discoservice', ':lyricservice'
+include ':lastfmservice'
+
+project(':lastfmservice').projectDir = new File('libs/LastFMService')
+
+project(':discoservice').projectDir = new File('libs/DiscoService')
+
+project(':lyricservice').projectDir = new File('libs/LyricService')

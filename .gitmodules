@@ -1,0 +1,9 @@
+[submodule "libs/LastFMService"]
+	path = libs/LastFMService
+	url = https://github.com/MatiKloster/lastFMService.git
+[submodule "libs/DiscoService"]
+	path = libs/DiscoService
+	url = https://github.com/JuanmaFloyd/DiscoService.git
+[submodule "libs/LyricService"]
+	path = libs/LyricService
+	url = https://github.com/Joaco1916/LyricService.git

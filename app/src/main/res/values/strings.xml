@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">SpotiSong</string>
+  <string name="go">Go!</string>
+  <string name="search_song_in_spotify">Search song in Spotify</string>
+  <string name="open_in_spotify">Open in Spotify</string>
+  <string name="view_more_info">View More Info</string>
+  <string name="spotisong">SpotiSong</string>
+  <string name="data_from_lastfm">Data from LastFM</string>
+  <string name="data_from_discogs">Data from DiscoGS</string>
+  <string name="data_from_lyricsdb">Data from LyricsDB</string>
+</resources>
