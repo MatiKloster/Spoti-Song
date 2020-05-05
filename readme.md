@@ -1,4 +1,4 @@
-<h1>Spoti Song</h1>
+<h1 style="text-align:center">Spoti Song</h1>
 Este fue un proyecto universitario de la materia Arquitectura y Diseño de Sistemas del año lectivo 2019</br>
 La aplicacion es una AndroidApp que busca canciones en Spotify y luego brinda la posibilidad de contactar con otros servicios web 
 a modo de obtener mas informacion de la misma, por caso: letra,informacion del artista y album
